@@ -16,4 +16,4 @@ branding:
   icon: 'unlock'
 runs:
   using: 'docker'
-  image: 'docker://hamelsmu/app-token'
+  image: 'docker://quay.io/cilium/app-token:v0.21.0@sha256:aa3e6689aba54cde969ace4e23c28f71611306f000ea4f2ef4f6e89fe4b9e2e9'
