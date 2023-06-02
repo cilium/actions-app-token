@@ -16,4 +16,4 @@ branding:
   icon: 'unlock'
 runs:
   using: 'docker'
-  image: 'docker://quay.io/cilium/app-token:v0.21.0@sha256:aa3e6689aba54cde969ace4e23c28f71611306f000ea4f2ef4f6e89fe4b9e2e9'
+  image: 'docker://quay.io/cilium/app-token:v0.21.1@sha256:3e91e3b62d4230c736e89337bfdb897e11862407a32dbf178ee8e8957ca45649'
